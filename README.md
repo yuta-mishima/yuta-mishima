@@ -1,8 +1,7 @@
-## Hi there 👋
-
+## Profiles
 ### ORCID https://orcid.org/0000-0003-4945-7346
 ### researchmap https://researchmap.jp/yutamishima
-### LikedIn linkedin.com/in/yutamishima
+### LikedIn https://www.linkedin.com/in/yutamishima/
 ### TRIOS https://trios.tsukuba.ac.jp/researcher/0000004382
 <!--
 **yuta-mishima/yuta-mishima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
